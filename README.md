@@ -5,7 +5,7 @@ The dataset contains historical product demand for a manufacturing company with 
 
 The overall goal is to build one or more forecasting models to determine the demand for a particular product using the other columns as features.
 
-The dataset can be found at: https://www.kaggle.com/felixzhao/productdemandforecasting
+The dataset can be found at: https://www.kaggle.com/felixzhao/productdemandforecasting  (File size is too big to upload)
 
 Structure/steps:
 
